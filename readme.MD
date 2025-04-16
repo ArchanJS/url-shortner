@@ -41,11 +41,6 @@ cd url-shortener
 npm install
 ```
 
-PORT=8000
-MONGODB_URI=mongodb://localhost:27017/urlshortener
-REDIS_URI=redis://localhost:6379
-BASE_URL=http://localhost:8000
-```
 
 4. Start the server
 ```bash
